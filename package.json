@@ -1,0 +1,6 @@
+{
+  "name": "agent-lira-app-de-recordatorios-de-medica-mormdnmb",
+  "version": "1.0.0",
+  "description": "Proyecto de Lira [Gen12]: app de recordatorios de medicamentos con alertas",
+  "main": "index.js"
+}
